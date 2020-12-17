@@ -10,6 +10,6 @@ github_username:  PragatiVerma18
 sass:
   sass_dir: _sass
 
-icon: ./assets/img/icon.jpg
+icon: ./assets/img/pragati.jpg
 
 theme: jekyll-theme-cayman
